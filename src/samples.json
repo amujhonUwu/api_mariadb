@@ -1,0 +1,34 @@
+[
+    {
+        "id":"1",
+        "cedula":"1313854752",
+        "nombre_1": "Maria",
+        "nombre_2": "Belen",
+        "apellido_1": "Gonzales",
+        "apellido_2": "Mendoza"
+    },
+    {
+        "id":"2",
+        "cedula":"1311639148",
+        "nombre_1": "Axel",
+        "nombre_2": "Abel",
+        "apellido_1": "Cedeño",
+        "apellido_2": "Suarez"
+    },
+    {
+        "id":"3",
+        "cedula":"1313167718",
+        "nombre_1": "Jhon",
+        "nombre_2": "Alexandro",
+        "apellido_1": "Cedeño",
+        "apellido_2": "Mieles"
+    },
+    {
+        "id":"4",
+        "cedula":"13133065805",
+        "nombre_1": "Javier",
+        "nombre_2": "Eduardo",
+        "apellido_1": "Galvez",
+        "apellido_2": "Montuano"
+    }
+]
